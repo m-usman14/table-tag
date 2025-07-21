@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table Tag III</title>
+</head>
+<body>
+    <table border="1" width="300px" cellspacing="0" cellpadding="10px" align="center">
+        <tr>
+            <td><strong>Peter</strong></td>
+            <td>12th</td>
+            <td>84%</td>
+        </tr>
+        <tr>
+            <td><strong>John</strong></td>
+            <td>12th</td>
+            <td>72%</td>
+        </tr>
+        <tr>
+            <td><strong>Merry</strong></td>
+            <td>12th</td>
+            <td>77%</td>
+        </tr>
+    </table>
+</body>
+</html>
